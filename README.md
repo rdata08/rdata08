@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ryan Gomez!
-- 👀 I’m interested in statistics and backend development!
+- 👀 I’m interested in statistics and software engineering!
 - 🌱 I’m currently learning how to build cool things.
 - 📫 Reach me at rg673@cornell.edu
 - ⚡ Fun fact: My family is from Cuenca, Ecuador! 🇪🇨
