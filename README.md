@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ryan Gomez!
-- 🎓 Fourth-year student at Cornell University.
+- 🎓 I'm a fourth-year student at Cornell University.
 - 👀 I’m interested in statistics and software engineering!
 - 🌱 I’m currently learning how to build cool things.
 - 📫 Reach me at rg673@cornell.edu
