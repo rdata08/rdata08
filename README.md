@@ -29,7 +29,6 @@
   </ul>
 </div>
 
-- 👋 Hi, I’m Ryan Gomez!
 - 🎓 I'm a fourth-year student at Cornell University.
 - 👀 I’m interested in statistics and software engineering!
 - 🌱 I’m currently learning how to build cool things.
